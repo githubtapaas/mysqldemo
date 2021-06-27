@@ -1,0 +1,4 @@
+com/codecraftshop/openshift/mysql/repository/StudentRepository.class
+com/codecraftshop/openshift/mysql/controller/StudentController.class
+com/codecraftshop/openshift/mysql/SpringbootOpenshitMysqlDemoApplication.class
+com/codecraftshop/openshift/mysql/model/Student.class
